@@ -14,10 +14,11 @@
 This method is already packaged and distributed as a **ClawHub skill** (WorkBuddy ecosystem):
 
 - **Skill name:** 日更100条方法论 v1.0.0
-- **Downloads:** 15+
+- **Downloads:** 455+ (all-time)
 - **Status:** In review
+- **Install:** `openclaw skills install @heyusheng007-netizen/daily-100-methodology`
 
-If you are a WorkBuddy user, you can install it directly from ClawHub. If not, this repository contains the same methodology in an open, LLM-friendly format.
+If you are a WorkBuddy/ClawHub user, install it directly from the marketplace. If not, this repository contains the same methodology in an open, LLM-friendly format.
 
 ---
 

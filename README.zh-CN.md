@@ -14,10 +14,11 @@
 这套方法论已经以 **ClawHub 技能** 的形式发布在 WorkBuddy 生态中：
 
 - **技能名：** 日更100条方法论 v1.0.0
-- **下载量：** 15+
+- **下载量：** 455+（历史累计）
 - **状态：** 审核中
+- **安装：** `openclaw skills install @heyusheng007-netizen/daily-100-methodology`
 
-如果你是 WorkBuddy 用户，可以直接在 ClawHub 安装使用；如果不是，本仓库提供完全开放的、适合任何 LLM 的格式。
+如果你是 WorkBuddy/ClawHub 用户，可以直接在市场安装使用；如果不是，本仓库提供完全开放的、适合任何 LLM 的格式。
 
 ---
 
