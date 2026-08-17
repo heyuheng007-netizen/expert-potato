@@ -9,6 +9,18 @@
 
 ---
 
+## Already in Use
+
+This method is already packaged and distributed as a **ClawHub skill** (WorkBuddy ecosystem):
+
+- **Skill name:** 日更100条方法论 v1.0.0
+- **Downloads:** 15+
+- **Status:** In review
+
+If you are a WorkBuddy user, you can install it directly from ClawHub. If not, this repository contains the same methodology in an open, LLM-friendly format.
+
+---
+
 ## Why This Project Exists
 
 Most small businesses know they should do short-video marketing, but:
